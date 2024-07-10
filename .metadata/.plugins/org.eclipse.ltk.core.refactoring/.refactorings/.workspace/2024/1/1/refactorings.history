@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;Synchronization&apos; to &apos;KN_Synchronization&apos;" description="Rename resource &apos;Synchronization&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Synchronization" name="KN_Synchronization" stamp="1704430379037" updateReferences="true"/>
-</session>

@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename compilation unit &apos;com.kodnest.interfacepackage.MultiLevel.java&apos; to &apos;MultilevelInheritance.java&apos;&#x0D;&#x0A;- Original project: &apos;KN_Interface&apos;&#x0D;&#x0A;- Original element: &apos;com.kodnest.interfacepackage.MultiLevel.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.kodnest.interfacepackage.MultilevelInheritance.java&apos;" description="Rename compilation unit &apos;MultiLevel.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.kodnest.interfacepackage{MultiLevel.java" name="MultilevelInheritance.java" references="false" stamp="1702386598273" version="1.0"/>
-</session>

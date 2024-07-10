@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.springframework.org/schema/beans
+  https://www.springframework.org/schema/beans/spring-beans.xsd">
+  
+  
+  <bean id="lap1" class="com.kodnest.bean.Laptop">
+  	<constructor-arg name="name" value="Lenovo IdeaPad-Gaming3"></constructor-arg>
+  	<constructor-arg name="colour" value="Black"></constructor-arg> 
+  <!-- collaborators and configuration for this bean go here -->
+  </bean>
+  
+  <bean id="lap2" class="com.kodnest.bean.Laptop">
+  	<property name="name" value="Dell"></property>
+  	<property name="colour" value="Silver_White"></property> 
+  <!-- collaborators and configuration for this bean go here -->
+  </bean>
+  
+  
+  
+</beans>

@@ -1,0 +1,36 @@
+import java.util.*;
+public class Searching {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter the no of elements");
+		int a=s.nextInt();
+		int arr[]=new int[a];
+		System.out.println(" enter the elemtns");
+		for(int i=0;i<a;i++)
+		{
+			arr[i]=s.nextInt();
+		}
+		System.out.println("for each loop");
+		System.out.println("enter search elemnt");
+		int search=s.nextInt();
+		int count=0;
+		for(int fr:arr)
+		{
+			if(search==fr)
+			{
+				System.out.println("search element found= "+fr);
+			count++;
+			}
+			
+		}
+		if(count>0)
+			System.out.println("search elemetns found ="+count);
+		else
+		{
+			System.out.println("not found");
+		}
+	}
+
+}

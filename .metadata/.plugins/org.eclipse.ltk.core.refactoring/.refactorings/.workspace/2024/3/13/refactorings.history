@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;RegularExpressions&apos; to &apos;KN_RegularExpressions&apos;" description="Rename resource &apos;RegularExpressions&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/RegularExpressions" name="KN_RegularExpressions" stamp="1711289626916" updateReferences="true"/>
+</session>

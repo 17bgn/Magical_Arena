@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.kodnest.polymorphism.Color&apos; to &apos;Color1&apos;&#x0D;&#x0A;- Original project: &apos;Demo_Polymorphism&apos;&#x0D;&#x0A;- Original element: &apos;com.kodnest.polymorphism.Color&apos;&#x0D;&#x0A;- Renamed element: &apos;com.kodnest.polymorphism.Color1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Color&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.kodnest.polymorphism{Color.java[Color" matchStrategy="1" name="Color1" qualified="false" references="true" similarDeclarations="false" stamp="1701855768625" textual="false" version="1.0"/>
+</session>

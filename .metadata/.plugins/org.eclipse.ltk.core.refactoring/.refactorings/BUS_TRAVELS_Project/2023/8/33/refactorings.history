@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;bgn17.Registration&apos; to &apos;UserAccount&apos;&#x0D;&#x0A;- Original project: &apos;BUS_TRAVELS_Project&apos;&#x0D;&#x0A;- Original element: &apos;bgn17.Registration&apos;&#x0D;&#x0A;- Renamed element: &apos;bgn17.UserAccount&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Registration&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;bgn17{Registration.java[Registration" matchStrategy="1" name="UserAccount" qualified="false" references="true" similarDeclarations="false" stamp="1692108512870" textual="false" version="1.0"/>
+</session>

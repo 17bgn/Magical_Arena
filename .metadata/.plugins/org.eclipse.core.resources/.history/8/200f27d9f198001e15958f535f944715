@@ -1,0 +1,12 @@
+package com.kodnest.interfacepackage;
+
+public interface MultipleInheritance {
+	void mi1();
+	int a = 17;
+}
+class anotherParent{
+	public void mi2() {
+		System.out.println("MultipleInheritance with interface variable = "+a);
+	}
+	
+}

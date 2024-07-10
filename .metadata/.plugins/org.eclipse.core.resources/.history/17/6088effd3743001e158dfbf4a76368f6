@@ -1,0 +1,8 @@
+import java.time.LocalDate;
+public class Tests {
+	
+	public static void main(String java[]) {
+		System.out.println("Hii Hero");
+	}
+
+}

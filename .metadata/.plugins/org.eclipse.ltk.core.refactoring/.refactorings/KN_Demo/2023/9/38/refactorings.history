@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;InClassExecution&apos; to &apos;ElseIfLadder&apos;&#x0D;&#x0A;- Original project: &apos;Demo&apos;&#x0D;&#x0A;- Original element: &apos;InClassExecution&apos;&#x0D;&#x0A;- Renamed element: &apos;ElseIfLadder&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;InClassExecution&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{InClassExecution.java[InClassExecution" matchStrategy="1" name="ElseIfLadder" qualified="false" references="true" similarDeclarations="false" stamp="1695376548474" textual="false" version="1.0"/>
+</session>

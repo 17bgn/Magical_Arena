@@ -1,0 +1,72 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+	<modelVersion>4.0.0</modelVersion>
+
+	<!-- Group ID, Artifact ID, and Version -->
+	<groupId>com.swiggy.codingtest</groupId>
+	<artifactId>Magical_Arena</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+
+	<!-- Project Name and Description -->
+	<name>Magical_Arena_Game</name>
+	<description>A simple magical arena game where two players battle until
+		one's health reaches zero.</description>
+
+	<!-- Properties for Java version -->
+	<properties>
+		<maven.compiler.source>17</maven.compiler.source>
+		<maven.compiler.target>17</maven.compiler.target>
+	</properties>
+
+	<!-- Dependencies -->
+	<dependencies>
+		<!-- JUnit for testing -->
+		<dependency>
+			<groupId>org.junit.jupiter</groupId>
+			<artifactId>junit-jupiter-api</artifactId>
+			<version>5.8.2</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.junit.jupiter</groupId>
+			<artifactId>junit-jupiter-engine</artifactId>
+			<version>5.8.2</version>
+			<scope>test</scope>
+		</dependency>
+	</dependencies>
+
+	<!-- Build Plugins -->
+	<build>
+		<plugins>
+			<!-- Maven Compiler Plugin:
+			This plugin is used to set the source and target versions of Java for compilation. 
+			It ensures that Java code is compiled to be compatible with the specified Java version. 
+			In this case, it's set to compile Java code compatible with Java 17.-->
+
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.8.1</version>
+				<configuration>
+					<source>17</source>
+					<target>17</target>
+				</configuration>
+			</plugin>
+			<!-- Maven Surefire Plugin for running tests:
+			This plugin is used for running unit tests written in JUnit. 
+			It executes the tests during the test phase of the build lifecycle. 
+			The configuration specifies the version of the plugin to use. -->
+			
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-surefire-plugin</artifactId>
+				<version>2.22.2</version>
+			</plugin>
+			
+			<!-- These plugins are essential for compiling the code and running unit tests, 
+			ensuring that the project builds correctly and that the tests are executed as part of the build process. -->
+		</plugins>
+	</build>
+</project>

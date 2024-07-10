@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\bgnag\eclipse-workspace\hiberante-project\src\main\java\com\kodnest\entity"/>
+			<item value="C:\Users\bgnag\eclipse-workspace\SpringProject3_Wiring\src\main\java\application-context.xml"/>
+			<item value="C:\Users\bgnag\eclipse-workspace\SpringProject2\src\main\java\com\kodnest\bean\Employee.java"/>
+			<item value="C:\Users\bgnag\eclipse-workspace\SpringProject1\src\main\java\com\kodnest\main\App.java"/>
+			<item value="C:\Users\bgnag\eclipse-workspace\KN_SpringProject"/>
+			<item value="C:\Users\bgnag\eclipse-workspace\hiberante-project\src\main\java\com\kodnest\entity\Student.java"/>
+			<item value="C:\Users\bgnag\eclipse-workspace\KN_JDBC_Project\src\com\kodnest\jdbc1\MainApplication.java"/>
+			<item value="C:\Users\bgnag\eclipse-workspace\KN_JDBCPractice\src\com\kn\jdbcpractice\Student.java"/>
+			<item value="C:\Users\bgnag\eclipse-workspace\KN_JDBCPractice\src\com\kn\jdbcpractice"/>
+			<item value="C:\Users\bgnag\eclipse-workspace\KN_JDBC\src\com\kodnest\jdbc"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.swiggy.codingtest"/>
+			<item value="com.kodnest"/>
+			<item value="com.kodnest.bean"/>
+		</list>
+		<list key="name">
+			<item value="Magical_Arena_Game"/>
+		</list>
+		<list key="artifactId">
+			<item value="Magical_Arena"/>
+			<item value="SpringProject4_Annotations"/>
+			<item value="SpringProject3_Wiring"/>
+			<item value="SpringProject2"/>
+			<item value="SpringProject1"/>
+			<item value="SpringProject"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\bgnag\Downloads\SpringBootProject1\SpringBootProject1"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

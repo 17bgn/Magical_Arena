@@ -1,0 +1,19 @@
+
+public class Strin {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String s=new String("Guru");
+		System.out.println("main string= "+s);
+		
+		System.out.println("upper case= "+s.toUpperCase());
+		System.out.println("upper case= "+s.toLowerCase());
+		
+		System.out.println(s.charAt(2));
+		System.out.println(s.substring(1));
+		String b="nagendra";
+		String c=b.concat(b);
+		System.out.println(c);
+	}
+
+}

@@ -1,0 +1,21 @@
+package com.kodnest.thread;
+public class Main {
+
+	public static void main(String[] args) {
+		//Thread ct=Thread.currentThread();
+		//System.out.println(ct);
+		Numbers n=new Numbers();
+		Alphabets a = new Alphabets();
+		Thread t1=new Thread();
+		t1.start();
+		Thread t2=new Thread();
+		t2.start();
+		/*Numbers n = new Numbers();
+		n.setName("FirstThread");
+		n.start();
+		Alphabets al = new Alphabets();
+		al.setName("SecondThread");
+		al.start();*/
+	}
+
+}
